@@ -1,0 +1,13 @@
+#odin-recipes-heading{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+summary{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
